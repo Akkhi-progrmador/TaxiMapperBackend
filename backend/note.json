@@ -1,0 +1,43 @@
+    [{
+    "id": 1,
+    "nome": "Viana",
+    "latitude": -8.9036,
+    "longitude": 13.3703
+    },
+    {
+    "id": 2,
+    "nome": "Sequele",
+    "latitude": -8.85946,
+    "longitude": 13.429168
+    },
+    {
+    "id": 3,
+    "nome": "Sonangol",
+    "latitude": 8.832016,
+    "longitude": 13.419103
+    },
+    {
+    "id": 4,
+    "nome": "5M",
+    "latitude": -8.838109,
+    "longitude": 13.424731
+    },
+    {
+    "id": 5,
+    "nome": "Vila-Catrapilar",
+    "latitude": -8.77185,
+    "longitude": 13.378404
+    },
+    {
+    "id": 6,
+    "nome": "Vila-Ponte Azul",
+    "latitude": -8.779006,
+    "longitude": 13.368915
+    },
+    {
+    "id": 7,
+    "nome": "Circular 1(cacuaco)",
+    "latitude": -8.779189,
+    "longitude": 13.36544
+    }
+]
